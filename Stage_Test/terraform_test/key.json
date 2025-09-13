@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "omega-wind-448707-r4",
+  "private_key_id": "a18417a0946be9a9f884d050a66a4548c8d3cc84",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDAvLfXnFrKc/S/\n3Pb96TizNX/a3wAR2lJibK8Hl2k2b4s5phqBP49XYRlecwqDY0moHGVrghDG2oed\ntNriHR+hKnyjUdhlQFFxvxRRxgqnV/tk+Ctp2BLSbSPNo1fV3myuKu/1yZqGJDMx\nNlHj13ywlJBQkuWtQ7sotvV1XHCMFwjdRzXEkZZQcWnCd69h/2VN9ZouyeFsPJfI\nUj0u54fXrc5oEjYMyTpFmuLvl/u5XZYHXUR/qo487o6fZyu0sRupVl7ETTS6pKuX\niBvmNjylczyOVxRq88HPhrNsdjd11BX4V5p2X+qnktsimCIvFalFHyXe92rDDzLn\n/5JxR4TZAgMBAAECggEAAh34j37dTPC/4R0kXebiS26kokL1kVyib8gVlpniSxmn\nz/jr/Nw1vv4XLR9Kn+WW7SitsQP/Wu3S1EfEqTvsaWTp9FHNdJRDqMISbzEDlDG+\nVk43DN01nLfb7zHygKwGKdYZJ2wg3UUXxlw8Q0pOSXLCUI5ChVgTfdefo9vBdTp1\nKildeNlF/mdgDT0EoXw1eRNBzo0eNumGkZBTD4eFFRg7T0fIEsVoBTX8D0h10AGV\ndwa40h7c67SKApwp6WDQPzBRePQrjDYKSgslCUiB9roy9Cas6uEJQMCsqOwusLRX\n4jv9SbknyO9TKX/Ty3AaiV1pgBXYs47Qp5yoThbIUQKBgQDh8QN+u/zIQXjVlqV4\nzpJ5tDYZzscfQ2roMtccvijEa2Ne5peUVLf9VoXli1LJ2msaB3RA7UyXv+8VhnpV\nKoX65WVxzLPpWEljjXNW3Euym7q+i9qe0q1V4WJzKgMsSSXDxz2hOrOoq0Q4pKOe\nNqjg9xg8KLctBMI0OL07bGnhcQKBgQDaYNoX87wcuGFeTJod2/vkssgfZ3YEbUdm\n6tKb2N4yHNT7hppgzNVvY8/FPgjLdw4OEyLPy+llBDxXIJkVHQwZslv/fvMK+Id3\nfAkYR2C9EwrMNbzvX9Za74uiJzY8x2gwSqmAbObMYKQgT0i8mNgwHJ1MTsa9iGs8\nUj48QpQl6QKBgQCN5NSzFNBN24BNcwx8cA7hS+HmF0xKQAa1yKf7rxjfMin4AY0U\nZJggC+SPIg5eIkO81w2VcPH3I1y9AfV14vy9cq9g5pPeacm9MapL1JHdm5uN6zrj\nH6AoHSG8/Zd8inujFk+IH9uQg+6WPB9dTyqEDeo0bcWMCj8EmNWOqilcoQKBgCpO\n41IKpaJG0o5rdtxcF1Q6ku0KpWG8Lj4xNnZ9MKcy0MyeSmCArsUy6DkFiLyqpy1w\n5aiuj9xDUtFqfl4Jz6NW294HIV05wz0R6c0rXwGio8/mhWE3Bxd9G2diA28JDxV0\nEZzQ/HISMxoTYjsvvYqssIjtJjHoMSZxpJ8WIw+pAoGBAKfPmVwxob6ER3PmXV2D\nl06j/ow3tR0gU7JwBOKZgh51WnCEyOQ5pRTClfEYiU1VUovA2E8U4M+/bxiZS155\nIZMBvoB06D8BS/IjsANFU57gn/ww9lWDJ7aaF41qa3JM9U+G8NkEw5z7TaTKxy78\noNMUXhGoYJxVt1wsAVWXV5Uj\n-----END PRIVATE KEY-----\n",
+  "client_email": "mon-compte-service@omega-wind-448707-r4.iam.gserviceaccount.com",
+  "client_id": "106861493926725180301",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mon-compte-service%40omega-wind-448707-r4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

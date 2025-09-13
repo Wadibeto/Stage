@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "omega-wind-448707-r4",
+  "private_key_id": "df5251d401a5f8f7b0ddd9021c44bfbfd7c80c75",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDe1MnpUcsEpUO1\nav6AIi3fhAKe9RO+oXPermqAFuDgJsqqJonMTKB9CtaF6+FWnNrH3gKvlkmF+6Sl\nvoxKBDz/oVH7LBX0rpRrqFbVNlv6nU9AYjMgA+/C8uuKpu9rjt6IwP2JkUVTx2uS\nKKtqfX+lYe+RifCmmyWUJ6Ytr6gA6BOpfgbUwzp7XhvHnKE3dIBz0MjwjCmHLPlC\n+7xkB+vppNzAIcODqZODiuIKE3XNkhF+Piobx4C+984Gog+jNoqHlb3mSz9tn/LG\nTVF7O/WJjr/abE/A4jga7+w71IW0/zoqPtWRHvV13WghljZi8hVnOqUobEhd/HKr\nssmtlKZXAgMBAAECggEAHUS65AF2gVI0eLWoicEI4Hp7nlBs5asESAQF1h7rLlYP\nZFZdNC9TxzOEu6DLf4UT0ZEuLiJh3uOPm/um0VQJhRQ160q+SYjNfZnmFJRSyYd0\ncO2qbx1FQV3cpWDJmDRIXj28hPTGs+XrkbjzfFsmndz6ytWLp/6UlYdjCE4xwDMn\nY9Vf8cu9mXwFbf0yv8X9we83fY8CnSMqamZyYPJOY9IVU+tHyLxWt78Nd+nj+GiC\ncGIkmpp9VtNbuPHVdayQcJNFgRHO1igJK+ABFABEUj0TvtlskPTF0GjLyxOV0i+Z\nc5zhO1WgN97Fu0g6s75yC9WuCW59d+JBbqakL93/IQKBgQD6I5+o4j73vypMzHap\nJVizRWqhWJ3FzMENP7XOzPKa2YqU9NilA8DjFLFWC4Twt6tEDAao8hkC4q4sbZPX\nt+DihsmlET/7JdiarYRTqQdvh8swIT79Q4oBo2vC0TFCXOJBKDt8vhTOF5yPZ7q6\n5BCTiXcEbLpZrw2J1e0jtbjhdwKBgQDkDV4PEGETzhJxlbQ/yF998Drho4EzsKdi\nRhJNbYwGiaM9a4RoebWpvn5FVwj4MnYzF81gKOukYNWWYxjX13LB9NIpU8sJrOaV\n189F1uJAEzL1wXqpWfrDn58KPSFmZMjRCr8dcFCQkhqYD7r/bKqLqrrdE17Qc8U1\n8RDE91KaIQKBgFiynx/csiVZpR88dWs/MffHyqrR6IhGNcKD7+0X4YMlVq3BML06\n2n/rS4LObOKKznE/rnDkABh01vwsEvuwWU8aKpCc0Eo3PlqC4uRjkJ5s0ZEMiPB3\nrY0tLL4VPdlhZF1kbcuq/2ehGcQELUOuMW6PlSN9horctvlEYWWDP767AoGAFSyc\nkB+AM/uNQNiajNWI8EOO5AZvZ6I+WGSTLHdAahb7fiduetjaIjGavctv/MOKsAHE\nwunpvzByhG0dEGVjtViK7uVl07cnDcCk8SIbjcF6mNDnF7RQETvP4357jGtNLgOm\nbRBRmqrGJ1pGjZLEXwVyJja3NfmZ1QFWAkPIeqECgYAcNaqaBcbJ/K3lUtHrthjR\nVJoj4RoSS/I9n13wr0PmPnXkYdcmc/wdn5yNIZqUOujCeIJ58nqbvP66k7Javiux\nhPEGfr22rNMaL7rsLGCEmCSWq9YHJ+yNhvYKAJ44breCNSsJaMxc8twkbpgfiMrk\nEhu9ReZHCuCQlDQnM41xHg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-sa@omega-wind-448707-r4.iam.gserviceaccount.com",
+  "client_id": "115970814844234373678",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-sa%40omega-wind-448707-r4.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

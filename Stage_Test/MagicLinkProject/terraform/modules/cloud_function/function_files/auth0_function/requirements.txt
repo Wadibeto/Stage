@@ -1,0 +1,5 @@
+flask==2.*
+requests==2.*
+python-jose==3.*
+functions-framework==3.*
+google-cloud-firestore==2.*
